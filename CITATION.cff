@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this software using the version-specific Zenodo DOI below. The DOI is registered when the record is published."
+type: software
+title: "Omics classifier transportability audit: code and reproduction materials"
+version: 1.0.4
+license: MIT
+authors:
+  - family-names: "Bao"
+    given-names: "Xiaoyuan"
+    affiliation: "Medical Informatics Center, Institute of Advanced Clinical Medicine, Peking University, Beijing, China"
+  - family-names: "Shan"
+    given-names: "Jiao"
+    affiliation: "Department of Hospital-Acquired Infection Control, Beijing Jishuitan Hospital, Beijing, China"
+  - family-names: "Cao"
+    given-names: "Yulong"
+    affiliation: "Department of Hospital-Acquired Infection Control, Peking University People's Hospital, Beijing, China"
+  - family-names: "Jiang"
+    given-names: "Jingsi"
+    affiliation: "Department of Ultrasound, Peking University Third Hospital, Beijing, China"
+  - family-names: "Wang"
+    given-names: "Haoyu"
+    affiliation: "School of Basic Medical Sciences, Peking University Health Science Center, Beijing, China"
+doi: "10.5281/zenodo.23236395"

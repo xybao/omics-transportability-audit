@@ -1,0 +1,20 @@
+[
+  {
+    "file": "curatedTBData_LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/wejlab/curatedTBData/master/LICENSE",
+    "status": "retrieved",
+    "note": "Current repository branch; not a frozen 2.8.0/3.20.0 release identity"
+  },
+  {
+    "file": "curatedTBData_LICENSE_md.txt",
+    "url": "https://raw.githubusercontent.com/wejlab/curatedTBData/master/LICENSE.md",
+    "status": "retrieved",
+    "note": "Current repository branch; not a frozen 2.8.0/3.20.0 release identity"
+  },
+  {
+    "file": "curatedMetagenomicData_LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/waldronlab/curatedMetagenomicData/devel/LICENSE",
+    "status": "retrieved",
+    "note": "Current repository branch; not a frozen 2.8.0/3.20.0 release identity"
+  }
+]

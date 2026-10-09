@@ -1,0 +1,20 @@
+[
+  {
+    "accession": "GSE89403",
+    "required_path": "reproduction_code/source_evidence_v6/GSE89403.metadata.txt",
+    "sha256": "5e29406660c7a269fac2b7c8e83aa2284444dd5ef46e18eae47790035e45f156",
+    "bytes": 1403128,
+    "provider_page": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE89403",
+    "provider_matrix_directory": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE89nnn/GSE89403/matrix/",
+    "verification": "Paths identify source resources; fresh download and byte-identical extraction were not tested in this preparation."
+  },
+  {
+    "accession": "GSE73408",
+    "required_path": "reproduction_code/source_evidence_v6/GSE73408.metadata.txt",
+    "sha256": "de867ee299df90c872db79b96c9f612800c5e87086fdfa5ff4f3f9cf5fe4fa68",
+    "bytes": 147657,
+    "provider_page": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE73408",
+    "provider_matrix_directory": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE73nnn/GSE73408/matrix/",
+    "verification": "Paths identify source resources; fresh download and byte-identical extraction were not tested in this preparation."
+  }
+]
